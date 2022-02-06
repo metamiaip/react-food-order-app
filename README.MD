@@ -11,3 +11,7 @@ Functionality:
 Note:
 - Cart data will be lost when press Refresh in browser at the moment
 - This app is for learning purpose
+
+How to run:
+- npm install
+- npm start
